@@ -10,7 +10,7 @@
 
 ## Description
 
-This repo contains the official code and data for our paper Self-Rectification. 
+This repo contains the official code and data for our paper [Self-Rectification](https://arxiv.org/abs/2401.02847). 
 
 ## Setup
 
@@ -82,4 +82,14 @@ The code is built upon [MasaCtrl](https://github.com/TencentARC/MasaCtrl). We si
 
 ## Cite
 
-Coming soon.
+```
+@misc{zhou2024generating,
+      title={Generating Non-Stationary Textures using Self-Rectification}, 
+      author={Yang Zhou and Rongjun Xiao and Dani Lischinski and Daniel Cohen-Or and Hui Huang},
+      year={2024},
+      eprint={2401.02847},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+

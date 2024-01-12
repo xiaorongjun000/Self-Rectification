@@ -63,6 +63,18 @@ The example textures we experimented with are provided in this repo. Some of the
 
 All the reference and target textures are provided in `./images/refs` and `./images/tgts`, respectively.  Some reference textures have augmentations, which are contained in `./images/augs`.
 
+#### Use custom data
+
+1. Run this script to generate target-background.
+
+   ```shell
+   python tools/gen_bg.py --path images/refs/5.jpg
+   ```
+
+   You will find a image file named `target-bg.jpg` in root directory.
+
+1. Lazy editing using Image editing software (eg. PhotoShop).
+
 ## Examples
 
 Here we show some examples along with their para settings.

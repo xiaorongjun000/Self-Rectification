@@ -95,13 +95,11 @@ The code is built upon [MasaCtrl](https://github.com/TencentARC/MasaCtrl). We si
 ## Cite
 
 ```
-@misc{zhou2024generating,
+@inproceedings{zhou2024generating,
       title={Generating Non-Stationary Textures using Self-Rectification}, 
       author={Yang Zhou and Rongjun Xiao and Dani Lischinski and Daniel Cohen-Or and Hui Huang},
-      year={2024},
-      eprint={2401.02847},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={CVPR},
+      year={2024}
 }
 ```
 

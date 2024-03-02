@@ -97,7 +97,7 @@ The code is built upon [MasaCtrl](https://github.com/TencentARC/MasaCtrl). We si
 ```
 @inproceedings{zhou2024generating,
       title={Generating Non-Stationary Textures using Self-Rectification}, 
-      author={Yang Zhou and Rongjun Xiao and Dani Lischinski and Daniel Cohen-Or and Hui Huang},
+      author={Yang Zhou, Rongjun Xiao, Dani Lischinski, Daniel Cohen-Or, Hui Huang},
       booktitle={CVPR},
       year={2024}
 }

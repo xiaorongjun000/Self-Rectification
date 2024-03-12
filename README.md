@@ -88,7 +88,7 @@ Here we show some examples along with their para settings.
 
 ## Supplemental Material
 
-[Link to Supplemental Material](https://xiaorongjun000.github.io/Self-Rectification-Supplementary/)
+[Link to Our Full Supplemental Material](https://xiaorongjun000.github.io/Self-Rectification-Supplementary/)
 
 ## Acknowledgements
 

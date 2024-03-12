@@ -86,7 +86,9 @@ Here we show some examples along with their para settings.
 | 3001-1 | ![ref](./assets/3001/ref.jpg) | ![3001-1](./assets/3001/target.jpg) | ![result](./assets/3001/result.jpg) | P1=20, P2=5, <br />S1=20, S2=5.<br />no augmentation<br /> |
 | 5001-1 | ![ref](./assets/5001/ref.jpg) | ![result](./assets/5001/target.jpg) | ![result](./assets/5001/result.jpg) | P1=20, P2=5, <br />S1=20, S2=5.<br />no augmentation<br /> |
 
+## Supplemental Material
 
+[Link to Supplemental Material](https://xiaorongjun000.github.io/Self-Rectification-Supplementary/)
 
 ## Acknowledgements
 
